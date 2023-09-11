@@ -1,0 +1,10 @@
+# version 0.0.0,
+# date updated 2023-09-11,
+topic,definition
+rcsfa-BSLE,Repo associated with the Burn Severity Lab Experiment study
+rcsfa-CM,Repo associated with ICON-ModEx 2022 water and sediment study (aka CONUS-Scale Model-Sample Study)
+rcsfa-SPS,Repo associated with 2021 Spatial Study
+rcsfa-SSS,Repo associated with 2022 Spatial Study
+rcsfa-STL,Repo associated with St Lawrence (water NPOC and FTICR from transect inland to coast) study
+rcsfa-WROL,Repo associated with Watershed Rules of Life study
+rcsfa-SSSF,Repo associated with Schneider Springs Fire Sampling 2021 study
