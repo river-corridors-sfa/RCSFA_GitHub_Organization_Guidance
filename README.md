@@ -1,6 +1,5 @@
-# SFA_GitHub_Organization_Guidance
-Date Created: 2023-08-30 by Bibi Powers-McCormack
-Date Updated: 2023-08-30 by Bibi Powers-McCormack
+# RCSFA_GitHub_Organization_Guidance
+Date Created: 2023-08-30 by Bibi Powers-McCormack <br> Date Updated: 2023-09-11 by Bibi Powers-McCormack
 
 This repository is to provide guidance and best practices for how to use the River Corridors SFA GitHub Organization. 
 
