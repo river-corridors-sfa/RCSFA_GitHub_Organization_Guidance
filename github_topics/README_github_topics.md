@@ -1,5 +1,4 @@
-Date Created: 2023-08-30 by the SFA Data Management Team (Amy Goldman, Brieanne Forbes, Bibi Powers-McCormack)
-Date Updated: 2023-09-11 by Bibi Powers-McCormack
+Date Created: 2023-08-30 by the SFA Data Management Team (Amy Goldman, Brieanne Forbes, Bibi Powers-McCormack) <br> Date Updated: 2023-09-11 by Bibi Powers-McCormack
 
 ## SFA GitHub Topics Overview
 Any GitHub repository created under the SFA GitHub Organization should choose from the controlled vocabulary of topics provided and add appropriate choices to the repository’s Topics list. Using the exact wording and having a controlled vocabulary will facilitate searching for specific repositories as the number of repositories grows through time. You can add other topics in addition to the ones you have chosen from the controlled vocabulary.
@@ -16,18 +15,18 @@ The SFA Data Management Team has created required, recommended, and optional Top
 
 Topic | Definition
 --- | --- 
-rcsfa-rc1 | The repo is associated with the RC SFA Research Campaign 1 on cumulative impacts
-rcsfa-rc2 | The repo is associated with the RC SFA Research Campaign 2 on hydrobiogeochemical variability
-rcsfa-rc3 | The repo is associated with the RC SFA Research Campaign 3 on watershed disturbances
-rcsfa-rc4 | The repo is associated with the RC SFA Research Campaign 4 on multi-basin studies, including WHONRS
-rcsfa-mm | The repo is associated with the RC SFA multi-scale ModEx
+**rcsfa-rc1** | The repo is associated with the RC SFA Research Campaign 1 on cumulative impacts
+**rcsfa-rc2** | The repo is associated with the RC SFA Research Campaign 2 on hydrobiogeochemical variability
+**rcsfa-rc3** | The repo is associated with the RC SFA Research Campaign 3 on watershed disturbances
+**rcsfa-rc4** | The repo is associated with the RC SFA Research Campaign 4 on multi-basin studies, including WHONRS
+**rcsfa-mm** | The repo is associated with the RC SFA multi-scale ModEx
 
 - **Project Type** - Include only one
 
 Topic | Definition
 --- | --- 
-rcsfa-manuscript | The repo is associated with a specific manuscript
-rcsfa-resource | The repo is associated with a resource that will be used by others (e.g. QAQC scripts, graphics, etc.)
+**rcsfa-manuscript** | The repo is associated with a specific manuscript
+**rcsfa-resource** | The repo is associated with a resource that will be used by others (e.g. QAQC scripts, graphics, etc.)
 ### Recommended Topics
 - **Study Code** - Include the relevant associated study codes
 	- See the associated `github_topics_StudyCodes.csv` file to find the study code Topics to select from. If your study code is not on the list, see the FAQs below for how to include it. 
