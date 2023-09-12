@@ -9,7 +9,7 @@ The more specific you make your Topic, the more restrictive the search will be. 
 ## Why is the SFA using GitHub Topics?
 Within a GitHub Organization, there is no way to organize or categorize repositories; each repo is listed under the river-corridors-sfa in a flat hierarchy. We are using topics to help group like-repos together. For example, every repo created under RC-4 gets the "rcsfa-rc4" Topic added. 
 ## How do you use GitHub Topics?
-The SFA Data Management Team has created required, recommended, and optional Topics. Be generous with adding Topics. If you think your repository is related to a Topic, feel free to add it. There are two required topics. Be sure to add your associated project element and project type. Any additional topics are either recommended or optional. 
+The SFA Data Management Team has created required, recommended, and optional Topics. Be generous with adding Topics. If you think your repository is related to a Topic, feel free to add it. There are two required Topics. Be sure to add your associated project element and project type. Any additional topics are either recommended or optional. 
 ### Required Topics
 - **Project Element** - Include at least one
 
