@@ -1,4 +1,4 @@
-Date Created: 2023-08-30 by the SFA Data Management Team (Amy Goldman, Brieanne Forbes, Bibi Powers-McCormack) <br> Date Updated: 2023-09-11 by Bibi Powers-McCormack
+Date Created: 2023-08-30 by the SFA Data Management Team (Amy Goldman, Brieanne Forbes, Bibi Powers-McCormack) <br> Date Updated: 2024-01-03 by Bibi Powers-McCormack
 
 ## SFA GitHub Topics Overview
 Anyone adding a GitHub repository to the SFA GitHub Organization should choose from the controlled vocabulary of topics provided and add appropriate choices to their repository’s Topics list. Using the exact wording and having a controlled vocabulary will better facilitate searching for specific repositories as the number of repositories grows through time. You can add other topics in addition to the ones you have chosen from the controlled vocabulary.
@@ -30,7 +30,7 @@ Topic | Definition
 **rcsfa-resource** | The repo is associated with a resource that will be used by others (e.g. QAQC scripts, graphics, etc.)
 ### Recommended Topics
 - **Study Code** - Include the relevant associated study codes.
-	- See the associated [github_topics_StudyCodes.csv](github_topics/github_topics_StudyCodes.csv) file to find the study code Topics to select from. If your study code is not on the list, see the FAQs below for how to include it. 
+	- See the associated [github_topics_StudyCodes.csv](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance/blob/main/github_topics/github_topics_StudyCodes.csv) file to find the study code Topics to select from. If your study code is not on the list, see the FAQs below for how to include it. 
 ### Optional Topics
 - **Calendar Year** - Include any years in which the data were collected, the lab work completed, the analyses run, and/or the year of publication. Be generous. 
 	- Use the format `rcsfa-YYYY` (e.g., "rcsfa-2023")
