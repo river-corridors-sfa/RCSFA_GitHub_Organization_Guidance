@@ -16,7 +16,8 @@ You can either create a new repository in the GitHub Organization, or add an exi
 When a new repository is added, we recommend the following actions occur:
 - Follow ==x== guidance for how to name your repo.
 - Follow ==x== guidance for what topics to add to your repo.
-- Identify a Repository Steward; this is the person who will manage the `main` branch and champion any collaborations between branches and merge requests.  
+- Identify a Repository Steward; this is the person who will manage the `main` branch and champion any collaborations between branches and merge requests. 
+- The Repository Steward should identify and set up the folder/directory structure. See below sections for recommendations and considerations for organization.
 ## How to organize your repo
 
 ### Recommended folder structure
