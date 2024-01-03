@@ -1,29 +1,34 @@
 # GitHub Best Practices
 
-Date Created: 2024-01-02 by Bibi Powers-McCormack
-Date Updated: 2024-01-02 by Bibi Powers-McCormack
+Date Created: 2024-01-02 by Bibi Powers-McCormack  
+Date Updated: 2024-01-03 by Bibi Powers-McCormack
 
-The purpose of this document is to provide an overview for how to work with GitHub repositories within the RC SFA GitHub Organization. The three main sections (how to set up a repo, how to organize your repo, and expectations for collaboration) offer guidance for getting started, managing, and collaborating using GitHub. 
+The purpose of this document is to provide an overview for how to work with GitHub repositories within the RC SFA GitHub Organization. The three main sections (how to set up a repo, how to organize your repo, and expectations for collaboration) offer guidance for getting started, managing, and collaborating using GitHub.
+
 ## How to set up a repo within the river-corridor-sfa GitHub Organization
 
-You should add your work to a GitHub repo within the river-cooridors-sfa GitHub Organization if any of the following criteria are met: 
-- [ ] ==FILL OUT CRITERIA==
+You should add your work to a GitHub repository within the river-cooridors-sfa GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyeses. 
 
 You can either create a new repository in the GitHub Organization, or add an existing repo. Directions can be found below:
-- Creating a new repo in a GitHub Organization
-- Adding an existing repo to a GitHub Organization
+- [Creating a new repo]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)) in a GitHub Organization. At step 4, select `river-corridors-sfa` as the Owner.
+- [Adding an existing repo]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account)) to a GitHub Organization. At step 4, select `river-corridors-sfa` as the New Owner.
 
 When a new repository is added, we recommend the following actions occur:
-- Follow ==x== guidance for how to name your repo.
-- Follow ==x== guidance for what topics to add to your repo.
+- Name your repo with the following syntax: `rcsfa-[RC#]-[StudyCode]-[keyword]`
+  - e.g. `rcsfa-RC3-SSF-FireParty`, `rcsfa-RC2-ScalingManuscript`
+- Follow the guidance in [README_github_topics.md](github_topics/README_github_topics.md) for what topics to add to your repo.
 - Identify a Repository Steward; this is the person who will manage the `main` branch and champion any collaborations between branches and merge requests. 
 - The Repository Steward should identify and set up the folder/directory structure. See below sections for recommendations and considerations for organization.
+- Write the README.md and and update to ensure it reflects the contents of the repo. See below sections for recommendations and considerations on what to include. 
+
 ## How to organize your repo
 
 ### Recommended folder structure
 
 ### Tips for repo readmes
-
+- Individuals who read your README should be able to understand the purpose and contents of your repo, how your repo is organized, and who to contact if they want to reach out.
+- The following sections should be included: `Title`, `Summary`, `Brief Overview of Methods`, `Repository Structure`, `Citations and Acknowledgements`, and `Contact`.
+- See ==X== for more guidance on the sections to include in your repo README.
 
 ## Expectations for collaboration
 
@@ -43,7 +48,8 @@ When a new repository is added, we recommend the following actions occur:
 - You can also branch when you want to work with others on different files. Branching allows collaborators to have their own isolated workspace and it encourages parallel development. When using this method, be sure that any two people are never editing the same file. 
 - You can branch when you want to experiment without affecting the main working version. This works well when you have a functional script and want to add a brainstorm, draft, and develop a new feature. Creating this new feature off of the main branch ensures the version that currently works doesn't get altered until the new feature is confirmed to harmoniously integrate into the existing pipeline. If you are doing this, the main branch should generally not be changed until the other feature branch(es) are merged back in. 
 ### When should I fork?
-- You should fork when you want to make a personal copy of another person's repo so that when you make your own edits, it won't affect the original repo. Forking is generally advised when you don't plan to directly collaborate with the original repo's author. Forking works well when you want to work with and/or contribute to an open-source project. 
+- Forking is generally not recommeneded within the scope of RC SFA work. 
+- You should fork when you want to make a personal copy of another person's repo so that when you make your own edits, it won't affect the original repo. Forking is generally advised when you don't plan to directly collaborate with the original repo's author and works well when you want to work with and/or contribute to an open-source project. 
 - You can fork when you want to use someone else's repo as a starting point to your own new idea or direction. Note that when you branch, everyone is still working off a single repository. When you fork, however, you create a duplicated copy of the repository, thus creating two repos. 
 ### When should I merge?
 
