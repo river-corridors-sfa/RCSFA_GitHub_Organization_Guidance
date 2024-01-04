@@ -1,10 +1,37 @@
-# version 1.0.0,
-# date updated 2023-09-11,
-topic,definition
-rcsfa-BSLE,Repo associated with the Burn Severity Lab Experiment study
-rcsfa-CM,Repo associated with ICON-ModEx 2022 water and sediment study (aka CONUS-Scale Model-Sample Study)
-rcsfa-SPS,Repo associated with 2021 Spatial Study
-rcsfa-SSS,Repo associated with 2022 Spatial Study
-rcsfa-STL,Repo associated with St Lawrence (water NPOC and FTICR from transect inland to coast) study
-rcsfa-WROL,Repo associated with Watershed Rules of Life study
-rcsfa-SSSF,Repo associated with Schneider Springs Fire Sampling 2021 study
+topic,study_code,study_code_definition,associated_subproject
+rcsfa-myak,MYAK,Microbial Yakima ,Cross
+rcsfa-eca2,ECA2,ECA 2020 sediment ,ECA
+rcsfa-eca1,ECA1,ECA 2020 ibuttons ,ECA
+rcsfa-scg,SCG,Chelsea Smith 2022 ,ECA
+rcsfa-x1ec,X1EC,ECA lab experiment 2021 ,ECA
+rcsfa-ec,EC,ECA lab experiment 2022 (using ICON-ModEx samples) ,ECA
+rcsfa-sps,SPS,Spatial Study 2021,RC2
+rcsfa-rc2,RC2,Ongoing Temporal study,RC2
+rcsfa-sss,SSS,Spatial Study 2022,RC2
+rcsfa-eweb,EWEB,Eugene water and electric board,RC3
+rcsfa-bsle,BSLE,Burn Severity Lab Experiment,RC3
+rcsfa-yrbt,YRBT,Yakima River Basin Temporal study ,RC3
+rcsfa-ssfs,SSFS,Schneider Springs Fire Sampling 2021,RC3
+rcsfa-ssf,SSF,Schneider Springs Fire 2022,RC3
+rcsfa-s,S,Mini-kits (global single point in time),RC4
+rcsfa-s19s,S19S,Summer 2019 Sampling,RC4
+rcsfa-mnfire,MNFIRE,Michelle Newcomer Fire time series,RC4
+rcsfa-wrol,WROL,Watershed Rules of Life,RC4
+rcsfa-h,H,Hyperspectral,RC4
+rcsfa-yde21,YDE21,Svalbard (Jacob Yde),RC4
+rcsfa-yde22,YDE22,Svalbard 2022,RC4
+rcsfa-dbp,DBP,Disinfection Byproducts (Laura Leonard/Josh Sharp),RC4
+rcsfa-stl,STL,St Lawrence (water NPOC and FTICR from transect inland to coast),RC4
+rcsfa-hon,HON,Honduras microbial sampling,RC4
+rcsfa-mfc,MFC,Missouri Flat Creek (WHONDRS Local),RC4
+rcsfa-cm,CM,ICON-ModEx 2022 water and sediment (aka CONUS-Scale Model-Sample Study),RC4
+rcsfa-tap,TAP,The Americas Project,RC4
+rcsfa-av1,AV1,Allison Veach 1,RC4
+rcsfa-ev,EV,ECA experiment following AV1 (same protocol as ECA for CM),ECA
+rcsfa-yl2,YL2,Yuehan Lu 2 (Hyperspectral folks including Shuo Chen),RC4
+rcsfa-pel,PEL,Aaron Pelly's 2022 study,
+rcsfa-kl1,KL1,Kitty Lohse/Jennings Leavell Reynolds Creek Idaho Pre- and Post-Fire Sampling,RC3
+rcsfa-ap2,AP2,Aaron Pelly's 2023 study,
+rcsfa-pe ,PE ,Preliminary exploration,SFA
+rcsfa-mec,MEC,Monet EC ,ECA
+rcsfa-me,ME,Monet EC experiment  following MEC,ECA
