@@ -1,7 +1,7 @@
 # GitHub Best Practices
 
 Date Created: 2024-01-02 by Bibi Powers-McCormack  
-Date Updated: 2024-01-03 by Bibi Powers-McCormack
+Date Updated: 2024-01-09 by Bibi Powers-McCormack
 
 The purpose of this document is to provide an overview for how to work with GitHub repositories within the RC SFA GitHub Organization. The three main sections (how to set up a repo, how to organize your repo, and expectations for collaboration) offer guidance for getting started, managing, and collaborating using GitHub.
 
@@ -28,7 +28,7 @@ When a new repository is added, we recommend the following actions occur:
 ### Tips for repo readmes
 - Individuals who read your README should be able to understand the purpose and contents of your repo, how your repo is organized, and who to contact if they want to reach out.
 - The following sections should be included: `Title`, `Summary`, `Brief Overview of Methods`, `Repository Structure`, `Citations and Acknowledgements`, and `Contact`.
-- See ==X== for more guidance on the sections to include in your repo README.
+- See the internally facing [How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package](https://pnnl.sharepoint.com/:w:/r/teams/SubsurfaceBiogeochemicalResearchSFA/Shared%20Documents/General/SFA%20Data%20and%20Software%20Management/Data-Publishing/Manuscript-Data-Package/How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package.docx?d=w3bafc8fcacca4b2cacf3d9e92a290a05&csf=1&web=1&e=MDW790) guidance document on Share Point for more guidance on the sections to include in your README.
 
 ## Expectations for collaboration
 
@@ -51,13 +51,8 @@ When a new repository is added, we recommend the following actions occur:
 - Forking is generally not recommeneded within the scope of RC SFA work. 
 - You should fork when you want to make a personal copy of another person's repo so that when you make your own edits, it won't affect the original repo. Forking is generally advised when you don't plan to directly collaborate with the original repo's author and works well when you want to work with and/or contribute to an open-source project. 
 - You can fork when you want to use someone else's repo as a starting point to your own new idea or direction. Note that when you branch, everyone is still working off a single repository. When you fork, however, you create a duplicated copy of the repository, thus creating two repos. 
-### When should I merge?
-
-### What should I do when there is a merge conflict?
-
-### When should I submit a pull request?
-
 ### When do I create a release?
+- You should create a release when you have identified the static version of your repo that best represents how you want your repository to be associated with a Data Package. This release will create a human readable name associated with a particular commit, allowing you to easily reference a specific snapshot in your Data Package. 
 
 
 
