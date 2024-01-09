@@ -1,14 +1,8 @@
-# RCSFA_GitHub_Organization_Guidance
-Date Created: 2023-08-30 by Bibi Powers-McCormack <br> Date Updated: 2023-09-11 by Bibi Powers-McCormack
+# Getting Started?
 
-This repository is to provide guidance and best practices for how to use the River Corridors SFA GitHub Organization. 
-
-The RCSFA GitHub Organization Guidance repository is currently being developed by the Data Management Team and the concepts have not been rolled out to the team yet. If you find yourself in here, feel free to poke around but we will announce (and update this readme) when the guidance repo is ready. 
-
-Here's what we're working on developing: 
-- [ ] Guidance and best practices around using GitHub topics
-- [ ] Guidance on how to add your repository to the Organization
-	- [ ] Guidance on how to name your repository
-- [ ] Guidance on what to include in manuscript associated repositories
-- [ ] Guidance on how to collaborate on resource associated repositories
-- [ ] Guidance on how to use GitHub issues in this repo
+The [rcsfa_github_best_practices.md](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance/blob/31a6329151abc389179db1d431d1a645dc1ca4f1/rcsfa_github_best_practices.md) document offers guidance on setting up and managing repositories within the `river-corridors-sfa` GitHub Organizaiton. It covers the following concepts: 
+- How to set up a repo within the `river-corridor-sfa` GitHub Organization
+	- How to name your repo
+	- How to add topics to your repo  
+- How to organize your repo
+- Expectations for collaboration
