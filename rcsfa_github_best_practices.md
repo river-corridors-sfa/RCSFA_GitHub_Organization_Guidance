@@ -3,11 +3,11 @@
 Date Created: 2024-01-02 by Bibi Powers-McCormack  
 Date Updated: 2024-01-09 by Bibi Powers-McCormack
 
-The purpose of this document is to provide an overview for how to work with GitHub repositories (also referred to as "repo") within the [RC SFA GitHub Organization](https://github.com/river-corridors-sfa). Below you will find guidance for getting started, managing, and collaborating using GitHub.
+The purpose of this document is to provide an overview for how to work with GitHub repositories (also referred to as "repo") within the [River Corridor Science Focus Area (RC SFA) GitHub Organization](https://github.com/river-corridors-sfa). Below you will find guidance for getting started, managing, and collaborating using GitHub.
 
 ## How to set up a repo within the river-corridor-sfa GitHub Organization
 
-You should add your work to a GitHub repository within the river-cooridors-sfa GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyses. 
+You should add your work to a GitHub repository within the `river-corridors-sfa` GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyses. 
 
 You can either create a new repository in the GitHub Organization, or add an existing repo. Directions can be found below:
 - [Creating a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) in a GitHub Organization. At step 4, select `river-corridors-sfa` as the Owner.
