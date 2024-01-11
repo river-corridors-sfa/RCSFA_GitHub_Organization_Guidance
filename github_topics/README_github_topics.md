@@ -1,11 +1,11 @@
 Date Created: 2023-08-30 by the SFA Data Management Team (Amy Goldman, Brieanne Forbes, Bibi Powers-McCormack) <br> Date Updated: 2024-01-03 by Bibi Powers-McCormack
 
 ## SFA GitHub Topics Overview
-Anyone adding a GitHub repository to the SFA GitHub Organization should choose from the controlled vocabulary of topics provided and add appropriate choices to their repository’s Topics list. Using the exact wording and having a controlled vocabulary will better facilitate searching for specific repositories as the number of repositories grows through time. You can add other topics in addition to the ones you have chosen from the controlled vocabulary.
+Anyone adding a GitHub repository to the [SFA GitHub Organization](https://github.com/river-corridors-sfa) should choose from the controlled vocabulary of topics provided and add appropriate choices to their repository’s Topics list. Using the exact wording and having a controlled vocabulary will better facilitate searching for specific repositories as the number of repositories grows through time. You can add other topics in addition to the ones you have chosen from the controlled vocabulary.
 ## What are GitHub Topics?
 GitHub Topics are akin to keywords or tags, allowing you to search repositories using specific terms. When you conduct a search, you will see a list of repositories that have also chosen to list that keyword as one of their Topics. You can choose to search within a repository, within an organization, or across all of GitHub. The format for a Topic is no spaces, only hyphens as special characters, and must be all lowercase. You can include multiple Topics for each repository. 
 
-The more specific you make your Topic, the more restrictive the search will be. If we use "sss" instead of "rcsfa-sss", many extraneous repositories would show up in the search across all of GitHub if we were searching outside the SFA GitHub Organization. The required Topics are restrictive to encourage easier navigation within the SFA, however, you are welcome to additionally add broader topics if you would like your repository to be findable outside of the context of the SFA. 
+The more specific you make your Topic, the more restrictive the search will be. If we use "sss" instead of "rcsfa-sss", many extraneous repositories would show up in the search across all of GitHub if we were searching outside the SFA GitHub Organization. The required Topics are restrictive to encourage easier navigation within the SFA, however, you are welcome to also add broader topics if you would like your repository to be findable outside of the context of the SFA. 
 ## Why is the SFA using GitHub Topics?
 Within a GitHub Organization, there is no way to organize or categorize repositories; each repo is listed under the river-corridors-sfa in a flat hierarchy. We are using topics to help group like-repos together. For example, every repo created under RC-4 gets the "rcsfa-rc4" Topic added. 
 ## How do you use GitHub Topics?
@@ -41,7 +41,7 @@ Topic | Definition
 	- Do not include `rcsfa-` if you would like your included topic to be discoverable outside of the scope of the SFA (e.g., "machine-learning")
 ## FAQs
 - What do you do if your Study Code topic is not included in the guidance?
-	- On the [RCSFA_GitHub_Organization_Guidance repo](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance), click the "issues" tab
+	- On the [RCSFA_GitHub_Organization_Guidance repo](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance), click the "Issues" tab
 	- Click on the green "New issue" button on the right hand side.
 	- Under "Title" write your issue (e.g., "new topic to add")
 	- Under the "Leave a comment" section...
@@ -51,10 +51,10 @@ Topic | Definition
 	- Click the green "Submit new issue" button to complete your request
 	- You can now add your newly proposed topic to your own repository and the Data Management Team will update the list in the guidance. 
 - What if it's not allowing me to add a topic?
-	- If you don't have permission, reach out to the SFA Data Management Team. 
+	- If you don't have permission, reach out to the repository steward. If you are still having issues, reach out to the SFA Data Management Team. 
 - How do I search for a Topic?
 	- There are multiple ways to use Topics as a search tool.
-	- If you're in a repo that has a Topic of interest, click on it the Topic. If any public repositories exist, they will appear here. Any private repositories you have access to will also appear. Note that this search method restricts your search to the organization you are searching within. 
+	- If you're in a repo that has a Topic of interest, click on the Topic. If any public repositories exist, they will appear here. Any private repositories you have access to will also appear. Otherwise, private repositories will not appear in your search. Note that this search method restricts your search to the organization you are searching within. 
 	- Use the main search bar to look for your Topic. After running the search, you will initially see all of the public repositories that include your search criteria (whether as a Topic or elsewhere in the repo) across all of GitHub. Use the "Filter by" section on the left side to further restrict your search criteria. 
 
 
