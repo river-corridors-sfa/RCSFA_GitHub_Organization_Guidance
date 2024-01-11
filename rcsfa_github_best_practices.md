@@ -3,15 +3,15 @@
 Date Created: 2024-01-02 by Bibi Powers-McCormack  
 Date Updated: 2024-01-09 by Bibi Powers-McCormack
 
-The purpose of this document is to provide an overview for how to work with GitHub repositories within the RC SFA GitHub Organization. The three main sections (how to set up a repo, how to organize your repo, and expectations for collaboration) offer guidance for getting started, managing, and collaborating using GitHub.
+The purpose of this document is to provide an overview for how to work with GitHub repositories (also referred to as "repo") within the [RC SFA GitHub Organization](https://github.com/river-corridors-sfa). The three main sections (how to set up a repo, how to organize your repo, and expectations for collaboration) offer guidance for getting started, managing, and collaborating using GitHub.
 
 ## How to set up a repo within the river-corridor-sfa GitHub Organization
 
-You should add your work to a GitHub repository within the river-cooridors-sfa GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyeses. 
+You should add your work to a GitHub repository within the river-cooridors-sfa GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyses. 
 
 You can either create a new repository in the GitHub Organization, or add an existing repo. Directions can be found below:
-- [Creating a new repo]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)) in a GitHub Organization. At step 4, select `river-corridors-sfa` as the Owner.
-- [Adding an existing repo]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account)) to a GitHub Organization. At step 4, select `river-corridors-sfa` as the New Owner.
+- [Creating a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) in a GitHub Organization. At step 4, select `river-corridors-sfa` as the Owner.
+- [Adding an existing repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) to a GitHub Organization. At step 4, select `river-corridors-sfa` as the New Owner.
 
 When a new repository is added, we recommend the following actions occur:
 - Name your repo with the following syntax: `rcsfa-[RC#]-[StudyCode]-[keyword]`
@@ -28,7 +28,7 @@ When a new repository is added, we recommend the following actions occur:
 ### Tips for repo readmes
 - Individuals who read your README should be able to understand the purpose and contents of your repo, how your repo is organized, and who to contact if they want to reach out.
 - The following sections should be included: `Title`, `Summary`, `Brief Overview of Methods`, `Repository Structure`, `Citations and Acknowledgements`, and `Contact`.
-- See the internally facing [How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package](https://pnnl.sharepoint.com/:w:/r/teams/SubsurfaceBiogeochemicalResearchSFA/Shared%20Documents/General/SFA%20Data%20and%20Software%20Management/Data-Publishing/Manuscript-Data-Package/How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package.docx?d=w3bafc8fcacca4b2cacf3d9e92a290a05&csf=1&web=1&e=MDW790) guidance document on Share Point for more guidance on the sections to include in your README.
+- See the internally facing [How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package](https://pnnl.sharepoint.com/:w:/r/teams/SubsurfaceBiogeochemicalResearchSFA/Shared%20Documents/General/SFA%20Data%20and%20Software%20Management/Data-Publishing/Manuscript-Data-Package/How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package.docx?d=w3bafc8fcacca4b2cacf3d9e92a290a05&csf=1&web=1&e=MDW790) guidance document on SharePoint for more guidance on the sections to include in your README.
 
 ## Expectations for collaboration
 
@@ -40,8 +40,8 @@ When a new repository is added, we recommend the following actions occur:
 - You should also pull right before you commit. This again ensures you are committing your changes to the most up to date version. 
 - You should push directly after you commit your changes. When you commit, you are sending your changes into the version control system on your local machine. Pushing then sends those changes up to GitHub for collaborators to be able to view and access. 
 ### When should I clone?
-- You can clone a repo when you want to work on it directly from your local machines. This is useful if you are wanting to run anything in R or make large changes to any of the files. 
-- If you are making small changes, such as to text in a markdown file or to comments in a script, then you can also edit via the online GitHub web interface. 
+- You can clone a repo when you want to work on it directly from your local machine. This is useful if you are wanting to run anything in R or make large changes to any of the files. 
+- If you are making small changes, such as updating text in a markdown file or to comments in a script, then you can also edit via the online GitHub web interface. 
 ### When should I branch? 
 - There a a few reasons when you should branch, but branching is generally used when multiple people want to actively collaborate within the same repo. The differing methodologies vary based on project need and scope and you should discuss with your Repository Steward before branching. 
 - You can branch when you want to work with others on the same file. This allows two people to make edits simultaneously and then merge them back into the main branch when edits are complete. If you are doing this, be sure to pull before you edit, pull before you commit, and then commit, push, and merge as soon as you're done editing. 
