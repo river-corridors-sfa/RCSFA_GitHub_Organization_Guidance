@@ -1,25 +1,22 @@
 # GitHub Best Practices
 
-Date Created: 2024-01-02 by Bibi Powers-McCormack  
-Date Updated: 2024-01-09 by Bibi Powers-McCormack
-
-The purpose of this document is to provide an overview for how to work with GitHub repositories (also referred to as "repo") within the [River Corridor Science Focus Area (RC SFA) GitHub Organization](https://github.com/river-corridors-sfa). Below you will find guidance for getting started, managing, and collaborating using GitHub.
+The Data Management Team created this document to provide an overview for how to work with GitHub repositories (also referred to as "repo") within the [River Corridor Science Focus Area (RC SFA) GitHub Organization](https://github.com/river-corridors-sfa). Below you will find guidance for getting started, managing, and collaborating using GitHub.
 
 ## How to set up a repo within the river-corridor-sfa GitHub Organization
 
 You should add your work to a GitHub repository within the `river-corridors-sfa` GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyses. 
 
-You can either create a new repository in the GitHub Organization, or add an existing repo. Directions can be found below:
+You can either create a new repository in the GitHub Organization, or transfer an existing repo to the GitHub Organizaiton. Directions can be found below:
 - [Creating a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) in a GitHub Organization. At step 4, select `river-corridors-sfa` as the Owner.
 - [Adding an existing repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) to a GitHub Organization. At step 4, select `river-corridors-sfa` as the New Owner.
 
-When a new repository is added, we recommend the following actions occur:
+When a new repository is added to the `river-corridor-sfa` GitHub Organization, we recommend the following actions occur:
 - Name your repo with the following syntax: `rcsfa-[RC#]-[StudyCode]-[keyword]`
-  - e.g. `rcsfa-RC3-SSF-FireParty`, `rcsfa-RC2-ScalingManuscript`
-- Follow the guidance in [README_github_topics.md](github_topics/README_github_topics.md) for what topics to add to your repo.
+  - e.g. `rcsfa-RC3-SSF-fire_party`, `rcsfa-RC2-scaling_manuscript`
+- Add **Project Element** and **Project Type** Topics to your repo. Choose topics from the list found in [README_github_topics.md](github_topics/README_github_topics.md).
+- As the repository owner, you are responsible for managing the organzation of your repo and collaborator access.
 - Identify a Repository Steward; this is the person who will manage the `main` branch and champion any collaborations between branches and merge requests. 
-- The Repository Steward should identify and set up the folder/directory structure. See below sections for recommendations and considerations for organization.
-- Write the README.md and update to ensure it reflects the contents of the repo. See below sections for recommendations and considerations on what to include. 
+- Write the README.md to include a `Title`, `Summary`, and `Contact`, and update to ensure it reflects the contents of the repo.
 
 ## How to organize your repo
 
