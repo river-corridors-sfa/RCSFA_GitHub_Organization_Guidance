@@ -1,6 +1,6 @@
 # RC SFA GitHub Topics
 ## GitHub Topics Overview
-We are using GitHub Topics to organize our repos and allow them to be more easily searchable. When you add a GitHub repository to the [SFA GitHub Organization](https://github.com/river-corridors-sfa), review the controlled vocabulary of "Topics" provided and add appropriate choices to your repository's Topic list (in settings). Using a controlled vocabulary will better facilitate searching across repositories through time, however you can also add additional Topics to your repo that are not listed in the controlled vocabulary. 
+We are using GitHub Topics to organize our repos and allow them to be more easily searchable. When you add a GitHub repository to the [SFA GitHub Organization](https://github.com/river-corridors-sfa), review the [controlled vocabulary](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance/blob/main/github_topics/README.md#controlled-vocabulary-of-topics) of "Topics" provided and add appropriate choices to your repository's Topic list (in settings). Using a controlled vocabulary will better facilitate searching across repositories through time, however you can also add additional Topics to your repo that are not listed in the controlled vocabulary. 
 ## What are GitHub Topics?
 GitHub Topics are akin to keywords or tags, allowing you to search repositories using specific terms. When you conduct a search, you will see a list of repositories that have also chosen to list that term as one of their Topics. Topic formatting allows lowercase letters, numbers, and hyphens. You can include multiple Topics for each repository. 
 
@@ -41,20 +41,14 @@ Topic | Definition
 	- Do not include `rcsfa-` if you would like your included topic to be discoverable outside of the scope of the SFA (e.g., "machine-learning")
 ## FAQs
 - What do you do if your Study Code topic is not included in the guidance?
-	- On the [RCSFA_GitHub_Organization_Guidance repo](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance), click the "Issues" tab
+	- On the [RCSFA_GitHub_Organization_Guidance repo](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance), click the "Issues" tab.
 	- Click on the green "New issue" button on the right hand side.
-	- Under "Title" write your issue (e.g., "new topic to add")
+	- Under "Title" write your issue (e.g., "new topic to add").
 	- Under the "Leave a comment" section...
 		- include the Topic you'd like to add. Recall Topic formatting allows lowercase letters, numbers, and hyphens. We recommend using hyphens to separate words over using camelCase.
 		- include the definition of the topic.
-	- On the right hand side, add the label "documentation"
-	- Click the green "Submit new issue" button to complete your request
+	- On the right hand side, add the label "documentation".
+	- Click the green "Submit new issue" button to complete your request.
 	- You can now add your newly proposed topic to your own repository and the Data Management Team will update the list in the guidance. 
 - What if it's not allowing me to add a topic?
-	- If you don't have permission, reach out to the repository steward. If you are still having issues, reach out to the SFA Data Management Team. 
-- How do I search for a Topic?
-	- There are multiple ways to use Topics as a search tool.
-	- If you're in a repo that has a Topic of interest, click on the Topic. If any public repositories exist, they will appear here. Any private repositories you have access to will also appear. Otherwise, private repositories will not appear in your search. Note that this search method restricts your search to the organization you are searching within. 
-	- Use the main search bar to look for your Topic. After running the search, you will initially see all of the public repositories that include your search criteria (whether as a Topic or elsewhere in the repo) across all of GitHub. Use the "Filter by" section on the left side to further restrict your search criteria. 
-
-
+	- If you don't have permission, reach out to the Repository Steward. If you are still having issues, reach out to the SFA Data Management Team. 
