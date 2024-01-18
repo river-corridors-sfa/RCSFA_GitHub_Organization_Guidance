@@ -1,15 +1,15 @@
-Date Created: 2023-08-30 by the SFA Data Management Team (Amy Goldman, Brieanne Forbes, Bibi Powers-McCormack) <br> Date Updated: 2024-01-03 by Bibi Powers-McCormack
-
-## SFA GitHub Topics Overview
-Anyone adding a GitHub repository to the [SFA GitHub Organization](https://github.com/river-corridors-sfa) should choose from the controlled vocabulary of topics provided and add appropriate choices to their repository’s Topics list. Using the exact wording and having a controlled vocabulary will better facilitate searching for specific repositories as the number of repositories grows through time. You can add other topics in addition to the ones you have chosen from the controlled vocabulary.
+# RC SFA GitHub Topics
+## GitHub Topics Overview
+We are using GitHub Topics to organize our repos and allow them to be more easily searchable. When you add a GitHub repository to the [SFA GitHub Organization](https://github.com/river-corridors-sfa), review the controlled vocabulary of "Topics" provided and add appropriate choices to your repository's Topic list (in settings). Using a controlled vocabulary will better facilitate searching across repositories through time, however you can also add additional Topics to your repo that are not listed in the controlled vocabulary. 
 ## What are GitHub Topics?
-GitHub Topics are akin to keywords or tags, allowing you to search repositories using specific terms. When you conduct a search, you will see a list of repositories that have also chosen to list that keyword as one of their Topics. You can choose to search within a repository, within an organization, or across all of GitHub. The format for a Topic is no spaces, only hyphens as special characters, and must be all lowercase. You can include multiple Topics for each repository. 
+GitHub Topics are akin to keywords or tags, allowing you to search repositories using specific terms. When you conduct a search, you will see a list of repositories that have also chosen to list that term as one of their Topics. Topic formatting allows lowercase letters, numbers, and hyphens. You can include multiple Topics for each repository. 
 
-The more specific you make your Topic, the more restrictive the search will be. If we use "sss" instead of "rcsfa-sss", many extraneous repositories would show up in the search across all of GitHub if we were searching outside the SFA GitHub Organization. The required Topics are restrictive to encourage easier navigation within the SFA, however, you are welcome to also add broader topics if you would like your repository to be findable outside of the context of the SFA. 
+You can choose to search within a repository, within an organization, or across all of GitHub. The more specific you make your Topic, the more restrictive the search will be. If we use "sss" instead of "rcsfa-sss", many extraneous repositories would show up in the search across all of GitHub if we were searching outside the SFA GitHub Organization. The required Topics are restrictive to encourage easier navigation within the SFA, however, you are welcome to also add broader topics if you would like your repository to be findable outside of the context of the SFA. 
 ## Why is the SFA using GitHub Topics?
 Within a GitHub Organization, there is no way to organize or categorize repositories; each repo is listed under the river-corridors-sfa in a flat hierarchy. We are using topics to help group like-repos together. For example, every repo created under RC-4 gets the "rcsfa-rc4" Topic added. 
 ## How do you use GitHub Topics?
-Below you will find required, recommended, and optional Topics. Be generous with adding Topics. If you think your repository is related to a Topic, feel free to add it. There are two required Topics. Be sure to add your associated project element and project type. Any additional topics are either recommended or optional. 
+Below you will find required, recommended, and optional Topics. There are two required Topic categories: project element and project type. Any additioanl Topics are either recommended or optional. Be generous with adding Topics. If you think your repository is related to a Topic, feel free to add it. 
+## Controlled Vocabulary of Topics
 ### Required Topics
 - **Project Element** - Include at least one
 
@@ -18,7 +18,7 @@ Topic | Definition
 **rcsfa-rc1** | The repo is associated with the RC SFA Research Campaign 1 on cumulative impacts
 **rcsfa-rc2** | The repo is associated with the RC SFA Research Campaign 2 on hydrobiogeochemical variability
 **rcsfa-rc3** | The repo is associated with the RC SFA Research Campaign 3 on watershed disturbances
-**rcsfa-rc4** | The repo is associated with the RC SFA Research Campaign 4 on multi-basin studies, including WHONRS
+**rcsfa-rc4** | The repo is associated with the RC SFA Research Campaign 4 on multi-basin studies, including WHONDRS
 **rcsfa-mm** | The repo is associated with the RC SFA multi-scale ModEx
 **rcsfa-fy24renewal** | The repo is associated with the RC SFA FY 2024 science plan renewal
 
@@ -45,7 +45,7 @@ Topic | Definition
 	- Click on the green "New issue" button on the right hand side.
 	- Under "Title" write your issue (e.g., "new topic to add")
 	- Under the "Leave a comment" section...
-		- include the Topic you'd like to add. Recall is the format for a Topic is no spaces, only hyphens as special characters, and must be all lowercase.
+		- include the Topic you'd like to add. Recall Topic formatting allows lowercase letters, numbers, and hyphens. We recommend using hyphens to separate words over using camelCase.
 		- include the definition of the topic.
 	- On the right hand side, add the label "documentation"
 	- Click the green "Submit new issue" button to complete your request
