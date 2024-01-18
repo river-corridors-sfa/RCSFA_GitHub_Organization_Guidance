@@ -1,32 +1,13 @@
 # GitHub Best Practices
 
-The Data Management Team created this document to provide an overview for how to work with GitHub repositories (also referred to as "repo") within the [River Corridor Science Focus Area (RC SFA) GitHub Organization](https://github.com/river-corridors-sfa). Below you will find guidance for getting started, managing, and collaborating using GitHub.
-## How to set up a repo within the river-corridor-sfa GitHub Organization
+The Data Management Team created this document to provide an overview for how to collaboratively work with GitHub repositories (also referred to as "repo") within the [River Corridor Science Focus Area (RC SFA) GitHub Organization](https://github.com/river-corridors-sfa). Below you will find guidance for getting started, managing, and collaborating using GitHub.
 
-You should add your work to a GitHub repository within the `river-corridors-sfa` GitHub Organization when the contents of your repo are associated in any way with the RC SFA. Examples include, but are not limited to, creating figures for a manuscript, writing scripts to process data, and developing analyses. 
-
-You can either create a new repository in the GitHub Organization, or transfer an existing repo to the GitHub Organizaiton. Directions can be found below:
-- [Creating a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) in a GitHub Organization. At step 4, select `river-corridors-sfa` as the Owner.
-- [Adding an existing repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-personal-account) to a GitHub Organization. At step 4, select `river-corridors-sfa` as the New Owner.
-### After you add (create or transfer) a repo to the GitHub Organization...
-1. Name your repo with the following syntax: `rcsfa-[RC#]-[StudyCode]-[keyword]`.
-	  - e.g. `rcsfa-RC3-SSF-fire_party`, `rcsfa-RC2-scaling_manuscript`
-2. Add **Project Element** and **Project Type** Topics to your repo. Choose topics from the list found in [README_github_topics.md](github_topics/README_github_topics.md).
-3. Write the README.md to include a `Title`, `Summary`, and `Contact`, and update to ensure it reflects the contents of the repo.
-4. As the repository owner, identify a Repository Steward (this can be you, or you can delegate the role).
-	- The Repository Steward is is the person who will organize the folder structure in the repo, ensure collaborators have access, manage the main branch, and champion any collaborations between branches and merge requests. 
-### Manuscript Associated Repositories
-If your repo is, or will be, associated with a manuscript, please reach out to the Data Management Team and read through the internally facing [How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package](https://pnnl.sharepoint.com/:w:/r/teams/SubsurfaceBiogeochemicalResearchSFA/Shared%20Documents/General/SFA%20Data%20and%20Software%20Management/Data-Publishing/Manuscript-Data-Package/How-to-Prepare-and-Publish-a-Manuscript-Associated-Data-Package.docx?d=w3bafc8fcacca4b2cacf3d9e92a290a05&csf=1&web=1&e=MDW790) guidance document on SharePoint for more guidance.
-## How to organize your repo
-
-### Recommended folder structure
-The recommended folder structure depends on project and collaboration needs. Reach out to the Data Management Team if you would like recommendations on how to structure your repository. 
-### Tips for repo readmes
+### How should I organize my repository?
+- Recommended folder structures depend on project and collaboration needs. Reach out to the Data Management Team if you would like recommendations on how to structure your repository. 
+### What should I include in my repo readme?
 - Individuals who read your README should be able to understand the purpose and contents of your repo, how your repo is organized, and who to contact if they want to reach out.
-- The following sections should be included: `Title`, `Summary`, and `Contact`.
-## FAQs
-
-### When do I commit changes?
+- At a minimumn, the following information should be included: `Title`, `Summary`, and `Contact`.
+### When should I commit changes?
 - When collaborating, you should commit and push a change as soon as you're done making the edit. This will keep the main branch as up to date as possible and will reduce the likelihood of people working off of differing versions of the same file. 
 - If you are making edits to several documents or reorganizing multiple files, consider staging and committing your changes in batches based on your reason for making each change. Making multiple commits creates a finer resolution version history and makes it easier for others to track both what and why changes were made within a repo. 
 ### When should I push/pull?
