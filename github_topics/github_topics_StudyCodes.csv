@@ -38,3 +38,6 @@ rcsfa-me,ME,Monet EC experiment  following MEC,ECA
 rcsfa-dit,DIT,Douglas-fir Inoculum Type (Riley Barton),RC3
 rcsfa-mel,MEL,MONET ECA collaboration - soil layers,ECA
 rcsfa-rs,RS,Reza Soltanian (DOD Cincinnati project),RS
+rcsfa-dbs,DBS,Douglas Burn Severity,RC3
+rcsfa-tgw,TGW,Tanglewood Wetland (Corianne Tatariw),
+rcsfa-prt,PRT,Post Retreat Fire,SFA
