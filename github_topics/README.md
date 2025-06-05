@@ -20,7 +20,7 @@ Topic | Definition
 **rcsfa-st2a** | The repo is associated with the RC SFA Science Theme on batch-scale ERsed
 **rcsfa-st2b** | The repo is associated with the RC SFA Science Theme on reach-scale ERsed
 **rcsfa-st3a** | The repo is associated with the RC SFA Science Theme on within-basin allometry
-**rcsfa-st3a** | The repo is associated with the RC SFA Science Theme on across-basin allometry
+**rcsfa-st3b** | The repo is associated with the RC SFA Science Theme on across-basin allometry
 **rcsfa-rc1** | The repo is associated with the RC SFA Research Campaign 1 on cumulative impacts
 **rcsfa-rc2** | The repo is associated with the RC SFA Research Campaign 2 on hydrobiogeochemical variability
 **rcsfa-rc3** | The repo is associated with the RC SFA Research Campaign 3 on watershed disturbances
