@@ -6,7 +6,7 @@ GitHub Topics are akin to keywords or tags, allowing you to search repositories 
 
 You can choose to search within a repository, within an organization, or across all of GitHub. The more specific you make your Topic, the more restrictive the search will be. If we use "sss" instead of "rcsfa-sss", many extraneous repositories will show up in the search across all of GitHub if we were searching outside the SFA GitHub Organization. The required Topics are restrictive to encourage easier navigation within the SFA, however, you are welcome to also add broader topics if you would like your repository to be findable outside of the context of the SFA. 
 ## Why is the SFA using GitHub Topics?
-Within a GitHub Organization, there is no way to organize or categorize repositories; each repo is listed under the river-corridors-sfa in a flat hierarchy. We are using topics to help group like-repos together. For example, every repo created under RC-4 gets the "rcsfa-rc4" Topic added. 
+Within a GitHub Organization, there is no way to organize or categorize repositories; each repo is listed under the river-corridors-sfa in a flat hierarchy. We are using topics to help group like-repos together. For example, every repo created under ST-2 gets the "rcsfa-st2" Topic added. 
 ## How do you use GitHub Topics?
 Below you will find required, recommended, and optional Topics. There are two required Topic categories: project element and project type. Any additional Topics are either recommended or optional. Be generous with adding Topics. If you think your repository is related to a Topic, feel free to add it. 
 ## Controlled Vocabulary of Topics
@@ -15,6 +15,12 @@ Below you will find required, recommended, and optional Topics. There are two re
 
 Topic | Definition
 --- | --- 
+**rcsfa-st1a** | The repo is associated with the RC SFA Science Theme on hydrologic connectivity
+**rcsfa-st1b** | The repo is associated with the RC SFA Science Theme on DOM transport/transformation
+**rcsfa-st2a** | The repo is associated with the RC SFA Science Theme on batch-scale ERsed
+**rcsfa-st2b** | The repo is associated with the RC SFA Science Theme on reach-scale ERsed
+**rcsfa-st3a** | The repo is associated with the RC SFA Science Theme on within-basin allometry
+**rcsfa-st3a** | The repo is associated with the RC SFA Science Theme on across-basin allometry
 **rcsfa-rc1** | The repo is associated with the RC SFA Research Campaign 1 on cumulative impacts
 **rcsfa-rc2** | The repo is associated with the RC SFA Research Campaign 2 on hydrobiogeochemical variability
 **rcsfa-rc3** | The repo is associated with the RC SFA Research Campaign 3 on watershed disturbances
