@@ -33,15 +33,16 @@ rcsfa-pel,PEL,Aaron Pelly's 2022 study,
 rcsfa-kl1,KL1,Kitty Lohse/Jennings Leavell Reynolds Creek Idaho Pre- and Post-Fire Sampling,RC3
 rcsfa-ap2,AP2,Aaron Pelly's 2023 study,
 rcsfa-pe ,PE ,Preliminary exploration,SFA
-rcsfa-mec,MEC,Monet EC ,ECA
-rcsfa-me,ME,Monet EC experiment  following MEC,ECA
+eca-mec,MEC,Monet EC,ECA
+eca-me,ME,Monet EC experiment  following MEC,ECA
 rcsfa-dit,DIT,Douglas-fir Inoculum Type (Riley Barton),RC3
-rcsfa-mel,MEL,MONET ECA collaboration - soil layers,ECA
-rcsfa-rs,RS,Reza Soltanian (DOD Cincinnati project),RS
+eca-mel,MEL,MONET ECA collaboration - soil layers,ECA
+rs,RS,Reza Soltanian (DOD Cincinnati project),RS
 rcsfa-dbs,DBS,Douglas Burn Severity,RC3
-rcsfa-tgw,TGW,Tanglewood Wetland (Corianne Tatariw),
+tgw,TGW,Tanglewood Wetland (Corianne Tatariw),non-SFA
 rcsfa-prt,PRT,Post Retreat Fire,SFA
-rcsfa-yep, YEP, YRB Batch Experiments Pyom Additions, ST-2A
+rcsfa-yep, YEP, YRB Batch Experiments Pyom Additions,ST-2A
 rcsfa-mcsn, MCSN, McKenzie Basin Stream Network , RC3
 rcsfa-nvy, NVY, Non-Perennial Variation YRB, ST-2B
 rcsfa-hjw, HJW, HJ Andrews workshop 2025,
+rep, REP, Rare Earth Pilot, non-SFA
