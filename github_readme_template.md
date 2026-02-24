@@ -12,6 +12,6 @@ The manuscript associated with this repo and Data Package can be cited as follow
 In addition to this repo, the Data Package is published and publicly available on ESS-DIVE. If using these data, please cite the Data Package with the following citation and DOI:  
 > [insert data package citation]
 ## License
-[leave empty until published on ESS-DIVE; once published add "This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/."]
+[leave empty until published on ESS-DIVE; once published add "This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. Please also see this [disclaimer](https://github.com/river-corridors-sfa/RCSFA_GitHub_Organization_Guidance/blob/main/DISCLAIMER.md)."]
 ## Contact
 [insert manuscript data package name, email]
