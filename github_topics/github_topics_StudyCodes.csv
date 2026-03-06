@@ -1,10 +1,10 @@
 topic,study_code,study_code_definition,associated_subproject
-rcsfa-myak,MYAK,Microbial Yakima ,RC2; RC3
-rcsfa-eca2,ECA2,ECA 2020 sediment ,ECA
-rcsfa-eca1,ECA1,ECA 2020 ibuttons ,ECA
-rcsfa-scg,SCG,Chelsea Smith 2022 ,ECA
+rcsfa-myak,MYAK,Microbial Yakima,RC2, RC3
+rcsfa-eca2,ECA2,ECA 2020 sediment,ECA
+rcsfa-eca1,ECA1,ECA 2020 ibuttons,ECA
+rcsfa-scg,SCG,Chelsea Smith 2022,ECA
 rcsfa-x1ec,X1EC,ECA lab experiment 2021 ,ECA
-rcsfa-ec,EC,ECA lab experiment 2022 (using ICON-ModEx samples) ,ECA
+rcsfa-ec,EC,ECA lab experiment 2022 (using ICON-ModEx samples),ECA
 rcsfa-sps,SPS,Spatial Study 2021,RC2
 rcsfa-rc2,RC2,Ongoing Temporal study,RC2
 rcsfa-sss,SSS,Spatial Study 2022,RC2
@@ -41,10 +41,10 @@ rs,RS,Reza Soltanian (DOD Cincinnati project),RS
 rcsfa-dbs,DBS,Douglas Burn Severity,RC3
 tgw,TGW,Tanglewood Wetland (Corianne Tatariw),non-SFA
 rcsfa-prt,PRT,Post Retreat Fire,SFA
-rcsfa-yep, YEP, YRB Batch Experiments Pyom Additions,ST-2A
-rcsfa-ypt, YPT, YEP Tag study (Alyssa's aliquots from YEP)
-rcsfa-mcsn, MCSN, McKenzie Basin Stream Network , RC3
-rcsfa-nvy, NVY, Non-Perennial Variation YRB, ST-2B
-rcsfa-hjw, HJW, HJ Andrews workshop 2025
-rep, REP, Rare Earth Pilot, non-SFA
-rcsfa-ump, UMP, Umtanum Monitoring Photos
+rcsfa-yep,YEP,YRB Batch Experiments Pyom Additions,ST-2A
+rcsfa-ypt,YPT,YEP Tag study (Alyssa's aliquots from YEP),ST-2
+rcsfa-mcsn,MCSN,McKenzie Basin Stream Network,RC3
+rcsfa-nvy,NVY,Non-Perennial Variation YRB,ST-2B
+rcsfa-hjw,HJW,HJ Andrews workshop 2025,ST-3
+rep,REP,Rare Earth Pilot,non-SFA
+rcsfa-ump,UMP,Umtanum Monitoring Photos,ST-2
