@@ -1,9 +1,9 @@
 topic,study_code,study_code_definition,associated_subproject
-rcsfa-myak,MYAK,Microbial Yakima,RC2, RC3
+rcsfa-myak,MYAK,Microbial Yakima,RC3
 rcsfa-eca2,ECA2,ECA 2020 sediment,ECA
 rcsfa-eca1,ECA1,ECA 2020 ibuttons,ECA
 rcsfa-scg,SCG,Chelsea Smith 2022,ECA
-rcsfa-x1ec,X1EC,ECA lab experiment 2021 ,ECA
+rcsfa-x1ec,X1EC,ECA lab experiment 2021,ECA
 rcsfa-ec,EC,ECA lab experiment 2022 (using ICON-ModEx samples),ECA
 rcsfa-sps,SPS,Spatial Study 2021,RC2
 rcsfa-rc2,RC2,Ongoing Temporal study,RC2
@@ -29,9 +29,9 @@ rcsfa-tap,TAP,The Americas Project,RC4
 rcsfa-av1,AV1,Allison Veach 1,RC4
 rcsfa-ev,EV,ECA experiment following AV1 (same protocol as ECA for CM),ECA
 rcsfa-yl2,YL2,Yuehan Lu 2 (Hyperspectral folks including Shuo Chen),RC4
-rcsfa-pel,PEL,Aaron Pelly's 2022 study,
+rcsfa-pel,PEL,Aaron Pelly's 2022 study,unknown
 rcsfa-kl1,KL1,Kitty Lohse/Jennings Leavell Reynolds Creek Idaho Pre- and Post-Fire Sampling,RC3
-rcsfa-ap2,AP2,Aaron Pelly's 2023 study,
+rcsfa-ap2,AP2,Aaron Pelly's 2023 study,unknown
 rcsfa-pe ,PE ,Preliminary exploration,SFA
 eca-mec,MEC,Monet EC,ECA
 eca-me,ME,Monet EC experiment  following MEC,ECA
